@@ -1,0 +1,11 @@
+https://github.com/Tencent/xLua
+https://github.com/xebecnan/UniLua
+https://github.com/xanathar/moonsharp
+https://github.com/efrederickson/SharpLua
+https://github.com/NLua/KeraLua
+https://github.com/gerich-home/kopilua
+https://github.com/Myndale/KopiLua
+https://github.com/NLua/NLua
+https://github.com/neolithos/neolua
+https://github.com/kevzhao2/Triton
+https://github.com/3F/LuNari

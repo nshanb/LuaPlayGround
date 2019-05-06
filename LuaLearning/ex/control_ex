@@ -1,0 +1,22 @@
+-- if cond then body end
+-- if cond then body else end
+-- if cond then body elseif cond then body end
+
+-- while cond do body end
+-- repeat body until cond
+
+--[[
+for var = exp_begin, exp_end, exp_step do
+ body
+end
+]]--
+
+-- break, return
+-- f = function() return; x = 1; end syntax error, should be
+f = function() do return; end x = 1; end
+
+a = {x=1,2,3,4}
+for i,v in ipairs(a) do print(i,v) end
+i=1;
+for k in pairs(a) do print(i,k); i = i+1 end
+
