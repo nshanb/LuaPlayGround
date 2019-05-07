@@ -14,5 +14,12 @@ namespace KeraLuaTestCore
             state = new Lua();
             state.Close();
         }
+
+        [TestMethod]
+        public void LuaScript_smoketest()
+        {
+            state = new Lua();
+            state.Close();
+        }
     }
 }
